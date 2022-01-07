@@ -13,9 +13,6 @@
 <a href="https://github.com/chandan9080">
   <img align="left" alt="Chandan's Github" width="22px" src="https://img.icons8.com/color/48/000000/github--v3.png" />
 </a>
-<a href="https://www.instagram.com/ch_anda_n/">
-  <img align="left" alt="Chandan's Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />
-</a>
 <a href="https://leetcode.com/ChanBuzz/">
   <img align="left" alt="Chandan's LeetCode" width="22px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png"/>
 </a>
@@ -30,9 +27,8 @@
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Chandan Chaurasiya from India.
 - 🔭 I’m currently pursuing my Bachelor of Technology in Electronics and Communication Engineering(B.Tech. ECE) from IIIT UNA.
 - 🌱 I’m currently learning React js .
-- 👯 I’m looking forward for an Internship Opportunities in Web-development.
+- 👯 I’m looking forward for an Internship Opportunities in Web-development,Software Development.
 - 💬 Ask me about Web,DSA.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
 
 ⭐️ From [chandan9080](https://github.com/chandan9080)
